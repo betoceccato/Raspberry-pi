@@ -42,43 +42,43 @@ sudo ~/Downloads/VMware-Player*
 
 Begin by picking the .iso image
 
-![](VM1.png)
+![](images/VM1.png)
 
 Pick a *Debian 10.x* image (picking other images may give you a Kernel Panic):
 
-![](VM2.png)
+![](images/VM2.png)
 
 Regarding the storage space, 16GB or 32GB should be more than enough. Just pick the typical size for a SD card. Now, click on *customize hardware*. Here you can modify the RAM, number of cores and so on. Pick 512mb or 2gb:
 
-![](VM3.png)
+![](images/VM3.png)
 
 You should see the following menu. If you chose 1gb or more of ram choose graphic install:
 
-![](VM4.png)
+![](images/VM4.png)
 
 You should see the following screen:
 
-![](VM5.png)
+![](images/VM5.png)
 
 From here on just proceed smoothly. If everything goes well you should see the following screen:
 
-![](VM6.png)
+![](images/VM6.png)
 
 If you picked 512 of ram you should pick the *Install* option because you will be in the low memory mode:, the process will be entirely text-based. If you encounter the following error:
 
-![](VM7.png)
+![](images/VM7.png)
 
 Advance to the next option:
 
-![](VM8.png)
+![](images/VM8.png)
 
 And just install the base system:
 
-![](VM9.png)
+![](images/VM9.png)
 
 You will end up in the following screen:
 
-![](VM10.png)
+![](images/VM10.png)
 
 If the system ever ask for it, try to use the following credentials:
 
