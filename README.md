@@ -1,6 +1,6 @@
 # The basics
 
-## 1. Download and Installing the OS
+## 1. Downloading and installing the OS
 
 References:
 
