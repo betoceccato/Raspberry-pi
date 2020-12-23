@@ -94,5 +94,9 @@ Finally, if needed we can zoom in to get a full screen even with a lower resolut
 mplayer -fs -tv width=320:height=240 -zoom tv:///dev/video0
 ```
 
+```
+mplayer -fs -tv width=320:height=240 tv:///dev/video0
+````
+
 There's a ssh script which executes all this stuff on the repository.
 
